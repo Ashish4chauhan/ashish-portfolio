@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website showcasing my skills, projects, certifications, and resume as a tech student.
 
-Built with a clean UI and a recruiter-focused layout..
+Built with a clean UI and a recruiter-focused layout.
 
 ---
 
