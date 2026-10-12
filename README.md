@@ -1,6 +1,6 @@
 # Ashish Chauhan – Personal Portfolio Website
 
-A modern, responsive personal portfolio website showcasing my skills, projects, certifications, and resume as a tech student.
+A modern, responsive personal portfolio website showcasing my skills, projects, certifications, and resume as a tech student
 
 Built with a clean UI and a recruiter-focused layout.
 
